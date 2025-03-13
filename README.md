@@ -2,7 +2,7 @@
 - 👀 I’m interested in FrontEnd Development
 - 🌱 I’m currently learning Angular, Vue
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me by tippanamdhusudan@gmail.com
+- 📫 You can reach me by tippanamadhusudan@gmail.com
 
 <!---
 tippanamadhusudan/tippanamadhusudan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
